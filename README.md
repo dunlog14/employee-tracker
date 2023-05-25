@@ -19,8 +19,6 @@ The dependencies required are:
 
 Users can start by envoking "npm start" in the command line. Based on the prompts, users can view departments, roles, or employees. Users can also add departments, roles, or employees, and update employee roles.
 
-## Video Link
-
 
 ## Contact
 
